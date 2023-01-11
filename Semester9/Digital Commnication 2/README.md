@@ -1,4 +1,4 @@
-### Here are digitally written `pdf` files for different lecture topics in dr.Karem part like:
+### Here are `digitally written pdf` files for different lecture topics in dr.Karem part like:
 - `Signal space` in lec4 and lec5
 - `ASK` in lec5 and lec6 
 - `PSK and its Variants` in lec 6,7,8
